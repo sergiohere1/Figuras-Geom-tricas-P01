@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\PractiaFiguraHerencia\PractiaFiguraHerencia\bin\Debug\PractiaFiguraHerencia.exe.config
+C:\Users\Usuario\source\repos\PractiaFiguraHerencia\PractiaFiguraHerencia\bin\Debug\PractiaFiguraHerencia.exe
+C:\Users\Usuario\source\repos\PractiaFiguraHerencia\PractiaFiguraHerencia\bin\Debug\PractiaFiguraHerencia.pdb
+C:\Users\Usuario\source\repos\PractiaFiguraHerencia\PractiaFiguraHerencia\obj\Debug\PrácticaFiguraHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\PractiaFiguraHerencia\PractiaFiguraHerencia\obj\Debug\PractiaFiguraHerencia.Form1.resources
+C:\Users\Usuario\source\repos\PractiaFiguraHerencia\PractiaFiguraHerencia\obj\Debug\PractiaFiguraHerencia.Properties.Resources.resources
+C:\Users\Usuario\source\repos\PractiaFiguraHerencia\PractiaFiguraHerencia\obj\Debug\PrácticaFiguraHerencia.csproj.GenerateResource.Cache
+C:\Users\Usuario\source\repos\PractiaFiguraHerencia\PractiaFiguraHerencia\obj\Debug\PrácticaFiguraHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PractiaFiguraHerencia\PractiaFiguraHerencia\obj\Debug\PractiaFiguraHerencia.exe
+C:\Users\Usuario\source\repos\PractiaFiguraHerencia\PractiaFiguraHerencia\obj\Debug\PractiaFiguraHerencia.pdb
